@@ -3,10 +3,10 @@ Description: A chat system allows multiple groups of users to chat. A chat coord
 
 The following is the steps to compile a chat system:
 1. To start a new chat session; follow the following two steps:
-  1. Compile the Coordinator class first
+  - Compile the Coordinator class first
     Format: java Coordinator
     It will prompt for a session ID (a server address and a server port).
-  2. Then, compile the Client class
+  - Then, compile the Client class
     Format: java Client
     Choose option #1: to START. It will also prompt for a session ID (a server address and a server
     port). 
